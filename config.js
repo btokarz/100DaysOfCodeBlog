@@ -10,5 +10,7 @@ module.exports = {
     website: 'https://btokarz.com',
     github: 'https://github.com/btokarz',
     linkedin: 'https://www.linkedin.com/in/btokarz',
-  }
+  },
+  pathPrefix: '/devblog',
+  siteUrl: 'https://upbeat-brown-f11072.netlify.com/',
 };
