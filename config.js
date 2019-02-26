@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Dev Blog', // Required
+  title: '100 Days of Code Blog', // Required
   author: 'Bart Tokarz', // Required
   description: 'Web Developer',
   primaryColor: '#3498db', // Required
@@ -10,7 +10,5 @@ module.exports = {
     website: 'https://btokarz.com',
     github: 'https://github.com/btokarz',
     linkedin: 'https://www.linkedin.com/in/btokarz',
-  },
-  pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  }
 };
