@@ -26,7 +26,7 @@ exports.createPages = ({ graphql, actions }) => {
                   excerpt
                   frontmatter {
                     title
-                    date(formatString: "MMMM D, YYYY")
+                    date(formatString: "MMMM DD, YYYY")
                     featuredImage {
                       childImageSharp {
                         sizes(maxWidth: 850) {
