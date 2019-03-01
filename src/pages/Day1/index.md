@@ -21,9 +21,9 @@ Yesterday (January 28, 2019), .dev domain names became available to the public. 
 
 I will continue working on my Portfolio project until it has enough features to make it look and feel complete. The next steps will be to add a transition to the main page which will contain the main content. Just a few of the features I will try to add eventually include:
 
-*Project Listing
-*Skills/Tools Section
-*Contact Form
-*Social/GitHub/Resume Links
-*Possibly use GitHub API to show some stats
+* Project Listing
+* Skills/Tools Section
+* Contact Form
+* Social/GitHub/Resume Links
+* Possibly use GitHub API to show some stats
 
