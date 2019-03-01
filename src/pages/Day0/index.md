@@ -1,6 +1,6 @@
 ---
 title: Day 0 - Setting Up!
-date: "2019-02-27"
+date: "2019-02-29"
 ---
 
 My name is Bart Tokarz and I have decided to embark on the 100 Days of Code Challenge. I will attempt to code every day for the next 100 days in order to better my coding abilities and create some meaningful projects. This article will detail my setup and goals.
