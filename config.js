@@ -7,10 +7,10 @@ module.exports = {
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://btokarz.com',
+    website: 'https://www.barttokarz.com',
     github: 'https://github.com/btokarz',
     linkedin: 'https://www.linkedin.com/in/btokarz',
   },
   pathPrefix: '/100DaysOfCodeBlog',
-  siteUrl: 'https://btokarz-blog.netlify.com/',
+  siteUrl: 'https://www.100daysofcode.dev/',
 };
