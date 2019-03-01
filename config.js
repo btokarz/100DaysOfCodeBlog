@@ -12,5 +12,5 @@ module.exports = {
     linkedin: 'https://www.linkedin.com/in/btokarz',
   },
   pathPrefix: '/100DaysOfCodeBlog',
-  siteUrl: 'https://www.100daysofcode.dev/',
+  siteUrl: 'btokarz-blog.netlify.com',
 };
